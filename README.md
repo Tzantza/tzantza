@@ -14,3 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Ferran 👋
+
+I'm a woodworking teacher turned **data analyst** and **aspiring data scientist**, passionate about using Python, SQL, and data visualization tools to explore and understand complex problems.  
+Currently building my skills in **machine learning** and hands-on projects for my portfolio.
+
+---
+
+## 🧠 What I'm working on
+
+- Building a portfolio of data analytics projects with **Python, Pandas, Matplotlib, Seaborn...**
+- Learning about **storytelling with data** and improving my visualizations using **Looker Studio**
+- Applying for **remote data analyst** positions to transition full-time into the tech world
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, Matplotlib, Plotly, Seaborn, Sklearn
+- **Databases**: MySQL, PostreSQL
+- **Tools**: Looker Studio, Git, GitHub, Jupyter Notebooks
+- **Other**: Web scraping with Requests and BeautifulSoup
+
+---
+
+## 📊 Featured Projects
+
+- 🎮 **Steam Game Analytics**  
+  Exploratory data analysis of 27,000+ Steam games, including trends in game publishing, playtime by genre, and user reviews.  
+  [View on GitHub](https://github.com/tzantza/eda-steam)
+
+- 📈 **(Proper name of second project)**  
+  (Short description here)  
+  [View on GitHub](#)
+
+---
+
+## 🌄 About me
+
+- Passionate about clean, honest data communication
+- Living in Reus ( SPAIN )
+- Seeking remote work to live in harmony with nature and start a family
+
+---
+
+## 📫 Let's connect
+
+- [LinkedIn](https://linkedin.com/in/fpiqueraspons)
+- fpiqueraspons@gmail.com
