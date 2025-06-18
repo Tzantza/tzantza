@@ -46,7 +46,8 @@ Currently building my skills in **machine learning** and hands-on projects for m
   [View on GitHub](https://github.com/tzantza/eda-steam)
 
 - 🎧 **Spotify Music Analytics**  
-  Exploratory data analysis of 500,000+ songs on Spotify, including trends in mood, energy, danceability, and song distribution by genre and year. 
+  Exploratory data analysis of 500,000+ songs on Spotify, including trends in mood, energy, danceability, and song distribution by genre and year.
+  
   [View on GitHub](https://github.com/tzantza/eda-spotify)
   
 - 📈 **(Proper name of second project)**  
