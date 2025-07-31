@@ -49,9 +49,9 @@ Currently building my skills in **machine learning** and hands-on projects for m
   Exploratory data analysis of 500,000+ songs on Spotify, including trends in mood, energy, danceability, and song distribution by genre and year.
   [View on GitHub](https://github.com/tzantza/eda-spotify)
   
-- 📈 **ML Project about wines**  
-  UNDER CONSTRUCTION
-  [View on GitHub](#)
+- 📈 **Coursera Projects**  
+  In this repository I share practical projects I completed during my Coursera journey, covering data analysis, machine learning, SQL and web scraping. It showcases my hands-on skills with Python, Pandas, scikit-learn and other tools, with clear, well-commented notebooks and real examples. 
+  [View on GitHub](https://github.com/Tzantza/coursera)
 
 ---
 
