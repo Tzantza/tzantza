@@ -25,7 +25,7 @@ Currently building my skills in **machine learning** and hands-on projects for m
 
 - Building a portfolio of data analytics projects with **Python, Pandas, Matplotlib, Seaborn...**
 - Learning about **storytelling with data** and improving my visualizations using **Looker Studio**
-- Applying for **remote data analyst** positions to transition full-time into the tech world
+- Applying for ** data analyst** positions to transition full-time into the tech world
 
 ---
 
