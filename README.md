@@ -34,7 +34,7 @@ Currently building my skills in **machine learning** and hands-on projects for m
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, Matplotlib, Plotly, Seaborn, Sklearn
 - **Databases**: MySQL, PostreSQL
-- **Tools**: Looker Studio, Git, GitHub, Jupyter Notebooks
+- **Tools**: Looker Studio, Git, GitHub, Jupyter Notebooks, BigQuery
 - **Other**: Web scraping with Requests and BeautifulSoup
 
 ---
